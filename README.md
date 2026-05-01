@@ -73,8 +73,10 @@ It enables students to quickly access policy-related information without manuall
 ```id="u7k29a"
 📁 rag-chatbot-university-policies
 │
-├── 📄 rag-chatbot-university-policies.py
-├── 📄 requirements.txt
+├── 📁 RAG_Project_Files
+│   ├── 📄 rag_chatbot_app.py
+│   ├── 📄 Requirement.txt
+│
 ├── 📄 README.md
 ```
 
